@@ -1,0 +1,14 @@
+{
+  "atp": {
+    "version": 1,
+    "type": "management"
+  },
+  "ticker": "MGT",
+  "name": "Management Token",
+  "chain": "BYTZ",
+  "creator": "The Bytz Core Developers",
+  "summary": "The MGT token is a tokenized management key on the BYTZ blockchain with special authorities necessary for: (1) the construction of a token system with coherent economic incentives; (2) the inception of Nucleus Tokens (special tokens that have interrelated monetary policies); and (3) the distribution of rewards that sustain this system of cryptographic tokens on the blockchain.",
+  "description": "The Atomic Token Protocol (ATP) introduces cross-coin and cross-token policy. BYTZ utilizes ATP for its reward system and rights structure. Management Token (MGT), Guardian Validator Token (GVT), and Guardian Validators all participate in an interconnected managent system, and are considered the Nucleus Tokens. The MGT token itself is a tokenized management key with special authorities needed for token inception on the blockchain. The MGT token continues to play a role in the management of and access to special features.",
+  "external_url": "https://bytz.gg/",
+  "attributes_url": "https://raw.githubusercontent.com/bytzcurrency/ATP-descriptions/mainnet/{id}_attributes.json"
+}
