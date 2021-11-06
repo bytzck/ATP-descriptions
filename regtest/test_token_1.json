@@ -1,7 +1,7 @@
 {
   "atp": {
     "version": 1,
-    "type": "token"
+    "type": "regular"
   },
   "ticker": "RTTOK",
   "name": "Regtest Token",
