@@ -5,7 +5,7 @@
   },
   "ticker": "RTTOK",
   "name": "Regtest Token",
-  "chain": "BYTZ",
+  "chain": "BYTZ.regtest",
   "summary": "Regtest token. For Test Only.",
   "creator": "bytzck",
   "external_url": "https://github.com/bytzcurrency/bytz",
