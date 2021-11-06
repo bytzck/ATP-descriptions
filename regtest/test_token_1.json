@@ -7,7 +7,8 @@
   "name": "Regtest Token",
   "chain": "BYTZ.regtest",
   "summary": "Regtest token. For Test Only.",
+  "description": "For testing on regtest",
   "creator": "bytzck",
   "external_url": "https://github.com/bytzcurrency/bytz",
-  "attributes_url": "https://github.com/bytzck/ATP-descriptions/blob/main/regtest/test_token_1.json"
+  "attributes_url": "https://github.com/bytzcurrency/ATP-descriptions/blob/main/regtest/test_token_1.json"
 }
