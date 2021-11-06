@@ -3,11 +3,11 @@
     "version": 1,
     "type": "token"
   },
-  "ticker": "TTOK1",
+  "ticker": "RTTOK",
   "name": "Regtest Token",
   "chain": "BYTZ",
   "summary": "Regtest token. For Test Only.",
   "creator": "bytzck",
   "external_url": "https://github.com/bytzcurrency/bytz",
-  "attributes_url": "https://raw.githubusercontent.com/sackninja/ninja/main/ninja.json"
+  "attributes_url": "https://github.com/bytzck/ATP-descriptions/blob/main/regtest/test_token_1.json"
 }
